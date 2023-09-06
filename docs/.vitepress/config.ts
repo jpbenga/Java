@@ -90,5 +90,5 @@ export default defineConfig({
     }
       },
       ignoreDeadLinks: true,
-      base: "/Java/"
+      base: "/java-cookbook/"
 })
