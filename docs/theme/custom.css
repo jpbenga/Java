@@ -1,0 +1,44 @@
+:root {
+    --vp-c-white: #ffffff;
+    --vp-c-black: #000000;
+    --vp-c-gray: #8e8e93;
+
+    --vp-c-text-light-1: rgba(60, 60, 67);
+    --vp-c-text-light-2: rgba(60, 60, 67, 0.75);
+    --vp-c-text-light-3: rgba(60, 60, 67, 0.33);
+
+    --vp-c-text-dark-1: rgba(255, 255, 245, 0.86);
+    --vp-c-text-dark-2: rgba(235, 235, 245, 0.6);
+    --vp-c-text-dark-3: rgba(235, 235, 245, 0.38);
+
+    --vp-c-sponsor: #db2777;
+
+    --vp-c-brand: #FFB84C;
+    --vp-c-brand-light: #F266AB;
+    --vp-c-brand-lighter: #A459D1;
+    --vp-c-brand-lightest: #2CD3E1;
+
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+}
+
+.dark {
+    --vp-c-white: #ffffff;
+    --vp-c-black: #000000;
+    --vp-c-gray: #8e8e93;
+
+    --vp-c-text-light-1: rgba(60, 60, 67);
+    --vp-c-text-light-2: rgba(60, 60, 67, 0.75);
+    --vp-c-text-light-3: rgba(60, 60, 67, 0.33);
+
+    --vp-c-text-dark-1: rgba(255, 255, 245, 0.86);
+    --vp-c-text-dark-2: rgba(235, 235, 245, 0.6);
+    --vp-c-text-dark-3: rgba(235, 235, 245, 0.38);
+
+    --vp-c-sponsor: #db2777;
+
+    --vp-c-brand: #FFB84C;
+    --vp-c-brand-light: #F266AB;
+    --vp-c-brand-lighter: #A459D1;
+    --vp-c-brand-lightest: #2CD3E1;
+}
